@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.logging.level.org.hibernate.SQL",
+      "type": "java.lang.String",
+      "description": "Description for spring.logging.level.org.hibernate.SQL."
+    },
+    {
+      "name": "api.prefix",
+      "type": "java.lang.String",
+      "description": "Description for api.prefix."
+    }
+  ] }
