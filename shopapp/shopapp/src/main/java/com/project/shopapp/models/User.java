@@ -2,8 +2,14 @@ package com.project.shopapp.models;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.springframework.security.core.userdetails.UserDetails;
 
 import java.sql.Date;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 
 
 @Entity
@@ -14,7 +20,8 @@ import java.sql.Date;
 @NoArgsConstructor
 @Builder
 @Table(name = "users")
-public class User {
+//implements UserDetails dung cua
+public class User extends BaseEntity implements UserDetails {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
@@ -48,4 +55,36 @@ public class User {
     @JoinColumn(name="role_id")
     private Role role;
 
+    @Override
+    public Collection<? extends GrantedAuthority> getAuthorities() { // laays ra cac quyen roles
+        List<SimpleGrantedAuthority> authorities = new ArrayList<>();
+//        authorities.add(new SimpleGrantedAuthority("ROLE_" + getRole().getName()));
+        authorities.add(new SimpleGrantedAuthority("ADMIN"));
+        return authorities;
+    }
+
+    @Override
+    public String getUsername() { // dung gia tri truong do de dang nhap
+        return phoneNumber;
+    }
+
+    @Override
+    public boolean isAccountNonExpired() { // Check acc co thoi luong vo thoi han
+        return true;
+    }
+
+    @Override
+    public boolean isAccountNonLocked() { // khong the khoa duoc user
+        return true;
+    }
+
+    @Override
+    public boolean isCredentialsNonExpired() {
+        return true;
+    }
+
+    @Override
+    public boolean isEnabled() {
+        return true;
+    }
 }

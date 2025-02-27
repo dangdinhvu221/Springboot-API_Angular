@@ -5,210 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb25680c-c493-4a28-9c52-424e3dc63bac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_18_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_9_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_14_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_14_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_smallrye_jandex_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_15_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_15_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_17_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_24_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_24_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_22_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_26_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_awaitility_awaitility_4_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_angus_angus_activation_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_7_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_6_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_8_0_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_6_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_5_14_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_5_14_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_modelmapper_modelmapper_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/databases/db_shopapp.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/configurations/MapperConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/OrderDetailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/CategoryDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/OrderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/OrderDetailDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/ProductDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/ProductImageDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/dtos/UserLoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/exceptions/DataNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/exceptions/InvalidParamException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/ProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/SocialAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/OrderDetailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/ProductImageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/responses/BaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/responses/OrderDetailResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/responses/OrderResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/responses/ProductListResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/responses/ProductResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/OrderDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/ICategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/IOrderDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/uploads/f148cf87-28e3-47c8-a9c3-4156b8e54deb_4cc6fdd829688036d979.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopapp/uploads/f701adc0-6e63-4a68-a368-afc4f1a835e5_50a4725b899f53c10a8e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/databases/db_shopapp.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/databases/db_shopapp.sql.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/ShopappApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/controllers/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/controllers/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/controllers/OrderDetailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/controllers/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/CategoryDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/OderDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/OrderDetailDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/ProductDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/ProductImageDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/dtos/UserLoginDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/exceptions/DataNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/exceptions/InvalidParamException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/ProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/SocialAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/OrderDetailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/ProductImageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/responses/BaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/responses/ProductResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/services/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/services/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/services/imp/ICategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/services/imp/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopapp_1/shopApp/src/main/java/com/project/shopapp/services/imp/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_api_0_11_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_impl_0_11_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_jackson_0_11_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/configurations/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/configurations/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/filters/JwtTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7581dd3c-feac-4170-985e-c201fe399017.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7581dd3c-feac-4170-985e-c201fe399017.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/imp/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopapp/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/shopapp/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,24 +74,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ToolConvertImage_test_vietlq" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Spring Boot.ShopappApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All in shopapp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shopapp" />
       <option name="PACKAGE_NAME" value="" />
@@ -315,7 +121,12 @@
       <workItem from="1740019564935" duration="121000" />
       <workItem from="1740040604361" duration="717000" />
       <workItem from="1740368932471" duration="20751000" />
-      <workItem from="1740451108894" duration="9535000" />
+      <workItem from="1740451108894" duration="22710000" />
+      <workItem from="1740494201521" duration="3231000" />
+      <workItem from="1740538593578" duration="1795000" />
+      <workItem from="1740563333021" duration="2383000" />
+      <workItem from="1740576916565" duration="7068000" />
+      <workItem from="1740626984086" duration="6233000" />
     </task>
     <servers />
   </component>
@@ -456,6 +267,106 @@
           <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/OrderDetailService.java</url>
           <line>52</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/OrderDetailController.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/UserController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/controllers/UserController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/services/UserService.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/components/JwtTokenUtil.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/filters/JwtTokenFilter.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopapp/src/main/java/com/project/shopapp/filters/JwtTokenFilter.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

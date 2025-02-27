@@ -2,6 +2,8 @@ package com.project.shopapp.controllers;
 
 import com.project.shopapp.dtos.UserDTO;
 import com.project.shopapp.dtos.UserLoginDTO;
+import com.project.shopapp.exceptions.DataNotFoundException;
+import com.project.shopapp.models.User;
 import com.project.shopapp.services.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
@@ -37,17 +39,18 @@ public class UserController {
                 return ResponseEntity.badRequest().body(errorMessages);
             }
             //Check password
-            if(userDTO.getPassword().equals(userDTO.getRetypePassword())){
-                return ResponseEntity.badRequest().body("Password does not match");
+            if(!userDTO.getPassword().equals(userDTO.getRetypePassword())){
+                return ResponseEntity.badRequest().body("Password does not match!");
             }
-            return ResponseEntity.ok("Register success fully");
+            User user = userService.createUser(userDTO);
+            return ResponseEntity.ok(user);
         }catch (Exception e){
             return ResponseEntity.badRequest().body(e.getMessage());
         }
     }
 
     @PostMapping("/login")
-    public ResponseEntity<?> createUser(@Valid @RequestBody UserLoginDTO userLoginDTO) {
+    public ResponseEntity<?> createUser(@Valid @RequestBody UserLoginDTO userLoginDTO) throws Exception {
 
         // Kiểm tra thông tin đăng nhập và sinh token
         // Trả về token trong response

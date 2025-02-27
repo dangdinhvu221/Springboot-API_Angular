@@ -1,25 +1,41 @@
-  server:
-    port: "8088"
-  spring:
-    application:
-      name: shopApp
-    datasource:
-      url: jdbc:mysql://localhost:3307/shopApp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
-      username: root
-      password:
-      driver-class-name: com.mysql.cj.jdbc.Driver
-    jpa:
-      show-sql: false
-      hibernate:
-        ddl-auto: none
-      properties:
-        hibernate:
-          dialect: org.hibernate.dialect.MySQL8Dialect
-          format_sql: true
-    servlet:
-      multipart:
-        max-file-size: 10MB
-        max-request-size: 10MB
-  api:
-    prefix: "api/v1"
+server:
+  port: 8088  # Cổng mà ứng dụng Spring Boot sẽ chạy trên (http://localhost:8088)
 
+spring:
+  application:
+    name: shopApp  # Tên ứng dụng Spring Boot
+
+  datasource:
+    url: jdbc:mysql://localhost:3307/shopApp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    # URL kết nối đến MySQL database, chạy trên cổng 3307 và database có tên "shopApp"
+
+    username: root  # Tên người dùng MySQL
+    password: ""  # Mật khẩu của MySQL (nếu có thì nhập vào đây)
+    driver-class-name: com.mysql.cj.jdbc.Driver  # Driver JDBC dùng để kết nối MySQL
+
+  jpa:
+    show-sql: false  # Nếu true, sẽ log SQL query ra console
+    hibernate:
+      ddl-auto: none  # Quản lý schema của database, "none" nghĩa là không tự động thay đổi
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect  # Chọn dialect cho MySQL 8
+        format_sql: true  # Định dạng SQL đẹp hơn khi log
+
+  servlet:
+    multipart:
+      max-file-size: 10MB  # Giới hạn dung lượng tối đa của 1 file tải lên
+      max-request-size: 10MB  # Giới hạn tổng dung lượng của tất cả file trong 1 request
+
+#  Tắt hoàn toàn log cấu hình Hibernate
+logging:
+  level:
+    org.hibernate: ERROR
+    org.hibernate.SQL: ERROR
+
+jwt:
+  expiration: 3600000  # Thời gian hết hạn của JWT token (đơn vị: milliseconds, 3600000ms = 1 giờ)
+  securityKey: "i9wKm89rYKrrqK11kLl40Xc56ZdJ0Ip1vVEnYnB0WMU="  # Khóa bí mật dùng để ký và xác thực JWT
+
+api:
+  prefix: "api/v1"  # Tiền tố chung cho tất cả API endpoint (VD: `/api/v1/users`)

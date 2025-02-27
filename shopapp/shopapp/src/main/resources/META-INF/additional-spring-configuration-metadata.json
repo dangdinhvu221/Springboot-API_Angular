@@ -9,5 +9,10 @@
       "name": "api.prefix",
       "type": "java.lang.String",
       "description": "Description for api.prefix."
+    },
+    {
+      "name": "jwt.extension",
+      "type": "java.lang.String",
+      "description": "Description for jwt.extension."
     }
   ] }
